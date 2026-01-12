@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer hailing from India.
-You can call me Jon or Jonny as my nickname.
+I'm a Software Engineer whose Goal is to learn and create as many projects I can as I am available.
 
 I create stuff that I imagine what's possible, and I use AI quite alot while applying concepts.
 
